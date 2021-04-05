@@ -8,6 +8,11 @@
     margin: 0px;
 }
 
+li {
+    display: inline;
+    margin: 30px;
+}
+
 .upperContacts {
     background-color: #F5F5F7;
     color: #1D1D1F;
@@ -19,10 +24,23 @@
 }
 
 .upperContactsElement {
-    margin-bottom: 0px;
+    margin-bottom: 2px;
+    margin-top: 2px;
 }
 
-li {
-    display: inline;
-    margin: 30px;
+.productFrame {
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    text-align: center;
+}
+
+.productFrame .frameHeader {
+    font-size: 50px;
+}
+
+.productFrame .frameSlogan {
+    font-size: 25px;
+}
+
+.productFrame.One {
+    background-color #FBFBFD;
 }

@@ -23,7 +23,7 @@ li {
     padding-bottom: 3px;
 }
 
-.upperContactsElement {
+.upperContacts p {
     margin-bottom: 2px;
     margin-top: 2px;
 }
@@ -39,8 +39,13 @@ li {
 
 .productFrame .frameSlogan {
     font-size: 25px;
+    font-weight: lighter;
+}
+
+.productFrame .frameLinks h3 {
+    font-weight: lighter;
 }
 
 .productFrame.One {
-    background-color #FBFBFD;
+    background-color: #FBFBFD;
 }

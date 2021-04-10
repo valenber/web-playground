@@ -19,16 +19,16 @@ li {
     color: #1D1D1F;
     text-align: center;
     font-family: -apple-system, BlinkMacSystemFont, sans-serif;
-    font-size: medium;
+    font-size: small;
     padding-top: 3px;
     padding-bottom: 3px;
 }
 
-a {
+.upperContacts a {
     text-decoration: none;
 }
 
-a:hover {
+.upperContacts a:hover {
     text-decoration: underline;
 }
 
